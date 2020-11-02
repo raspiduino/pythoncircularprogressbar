@@ -13,9 +13,9 @@ myloadbar = CircularLoadBar(root, x, y, r1, r2, percent=0, color1=green, color2=
 |r1|Described in the picture (radius of the first circle)|
 |r2|Described in the picture (radius of the second circle)|
 |percent|The startup percent (default is 0%)|
-|color1||Color of the first circle (default is green)|
-|color2||Color of the second circle (default is white)|
-|color3||Color of the third circle (default is white)|
+|color1|Color of the first circle (default is green)|
+|color2|Color of the second circle (default is white)|
+|color3|Color of the third circle (default is white)|
 
 <p>Example: (example.py)</p><br>
 
