@@ -1,4 +1,4 @@
-# Circular loadbar for Tkinter (Python)
+# Circular progressbar for Tkinter (Python)
 # Copyright @raspiduino on github
 # Date created 2/11/2020
 
