@@ -9,10 +9,10 @@ try:
 except ImportError:
     import tkinter as tk # For Python 3
 
-class CircularLoadBar():
+class CircularProgressBar():
     '''
     Circular LoadBar class
-    Usuage: myloadbar = CircularLoadBar(root, x, y, r1, r2, percent=0, color1=green, color2=white, color3=white)
+    Usuage: myloadbar = CircularProgressBar(root, x, y, r1, r2, percent=0, color1=green, color2=white, color3=white)
     ------------------
     root: root windows
     x       : x location of the loadbar's center point
