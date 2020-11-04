@@ -44,4 +44,4 @@ root.mainloop()
 <p>For a simple reason: There is no 'default' circular progress bar in Python Tkinter, so I wanted to make this.</p>
 
 ## License
-<p>Under <a href="https://github.com/raspiduino/pythoncircularprogressbar/blob/main/LICENSE">GNU GPL-V3</a></p>
+<p>Under <a href="https://github.com/raspiduino/pythoncircularprogressbar/blob/main/LICENSE">GNU LGPL-v2.1</a></p>
